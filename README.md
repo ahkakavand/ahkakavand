@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Amirhosein Kakavand</h1>
 
-| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=ahkakavand&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahkakavand&layout=compact&theme=tokyonight&hide_border=true" /></a> |
+| <a href="https://github.com/ahkakavand"><img align="center" src="https://github-readme-stats.vercel.app/api?username=ahkakavand&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/ahkakavand"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahkakavand&layout=compact&theme=tokyonight&hide_border=true" /></a> |
 | ------------- | ------------- |
 
 <h3 align="center">Languages and Tools:</h3>
