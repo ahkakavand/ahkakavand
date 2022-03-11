@@ -1,7 +1,7 @@
 <h1 align="center">Hi , I'm Amirhosein Kakavand</h1>
 
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=ahkakavand&show_icons=true&theme=tokyonight&title_color=#38bdae&icon_color=be91f2&text_color=daf7dc&bg_color=151515" />
+    <img src="https://github-readme-stats.vercel.app/api?username=kaakavand&show_icons=true&theme=tokyonight&title_color=#38bdae&icon_color=be91f2&text_color=daf7dc&bg_color=151515" />
 </div>
 
 <h3 align="center">Languages and Tools</h3>
